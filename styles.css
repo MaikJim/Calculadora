@@ -28,6 +28,7 @@ input[type='text'] {
   padding: 10px;
   border-radius: 5px;
   border: 1px solid none;
+  width: 240px;
 }
 input[type='button'] {
   padding: 10px;
